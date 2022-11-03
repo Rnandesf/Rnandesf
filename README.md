@@ -3,7 +3,7 @@
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     University student willing to learn and expand knowledge about the area of informatics. Emoji 🇵🇹 Drapeau. 
-    <img width="100px" alt="Bandeira de Portugal" src="https://w7.pngwing.com/pngs/924/4/png-transparent-flag-of-portugal-flag-thumbnail.png"/> 
+    <img width="100px" alt="Bandeira de Portugal" src="https://www.victorcosta.pt/images/imgs-blog/bandeirapt/cover_bandeira.jpg"/> 
 
 <br>
 <br>
