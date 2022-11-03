@@ -1,8 +1,8 @@
-<h1 style="color: #44AEFB;"> 👨🏻‍💻 Rodrigo Fernandes, Developer</h1>
+<h1 style="color: #44AEFB;"> 👩🏻‍🎓 Rodrigo Fernandes, Developer</h1>
 
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    Young boy willing to learn and expand knowledge about the area of informatics. Emoji 🇵🇹 Drapeau. 🇵🇹 
+    University student willing to learn and expand knowledge about the area of informatics. Emoji 🇵🇹 Drapeau. Flag: Portugal
 <br>
 <br>
 <div align="center">
@@ -71,11 +71,11 @@
 <!-- Change the value after ?username= to your GitHub username. -->
 <div class="stats" align="center">
 
-![Programming Gym's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rnandesf&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+![Rnandesf](https://github-readme-stats.vercel.app/api?username=Rnandesf&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Rnandesf&count_private=true&theme=algolia&border_radius=20)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasduarte2&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rnandesf&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
 <!--  End Stats Cards -->
 
