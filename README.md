@@ -62,14 +62,6 @@ I enjoy exploring how software works, solving problems through code, and turning
 
 **Git · Visual Studio Code · Google Cloud**
 
-## Project Spotlight
-
-### [Calculadora](https://github.com/Rnandesf/calculadora)
-
-An early web development project built with **HTML, CSS, and JavaScript**, exploring user input, DOM manipulation, and arithmetic expressions.
-
-[Explore the repository →](https://github.com/Rnandesf/calculadora)
-
 ## Contact
 
 Interested in discussing a project or exchanging ideas about software development?
