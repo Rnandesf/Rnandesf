@@ -1,35 +1,43 @@
-<h1 align="center">Olá 👋 Sou o Rodrigo Fernandes</h1>
+<h1 align="center">Rodrigo Fernandes</h1>
 
-<h3 align="center">Desenvolvimento Full Stack · Dados · Inteligência Artificial</h3>
+<h3 align="center">Software Development · Web · Data · AI</h3>
 
 <p align="center">
-  De Portugal 🇵🇹 · A desenvolver aplicações que ligam interfaces, dados e IA.
+  From interfaces and APIs to databases, automation, and AI integrations.
 </p>
 
 <p align="center">
-  <a href="mailto:rrodrigofernandess9@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contacta--me-0078D4?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  &nbsp;
-  <a href="https://github.com/Rnandesf?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-Os_meus_projetos-181717?style=flat-square&logo=github&logoColor=white" alt="Repositórios">
-  </a>
+  Portugal 🇵🇹
+  &nbsp; · &nbsp;
+  <a href="mailto:rrodrigofernandess9@gmail.com">Email</a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/Rnandesf?tab=repositories">Repositories</a>
 </p>
 
 ---
 
-### 👨‍💻 Sobre mim
+## 👨‍💻 About Me
 
-Gosto de trabalhar nas várias partes de uma aplicação: construir a interface, desenvolver a API e perceber como os dados são recolhidos, guardados e apresentados.
+I'm **Rodrigo Fernandes**, a developer from Portugal with a broad technical background spanning **web applications, backend services, data platforms, and AI integration**.
 
-- 🔭 Atualmente, estou a desenvolver uma **plataforma de monitorização e visualização de dados**.
-- ⚙️ O meu stack principal neste projeto é **React, TypeScript, Python e FastAPI**.
-- 🗄️ Trabalho com **PostgreSQL e ClickHouse**, pesquisa vetorial e armazenamento de objetos.
-- 🤖 Tenho explorado **MCP, RAG e modelos locais** para integrar assistentes com dados e documentação.
+I enjoy connecting the different parts of a system: building the interface, implementing the logic, structuring the data, and bringing everything together.
 
-### 🛠️ Tecnologias
+My approach is practical and adaptable. I like understanding the problem first, choosing the right tools, and developing solutions that are clear, useful, and maintainable.
 
-#### Linguagens
+## ⚡ What I Bring
+
+| Area | Focus |
+| :--- | :--- |
+| **Frontend Development** | Responsive interfaces, interactive dashboards, data visualization, and maps. |
+| **Backend Development** | APIs, authentication, business logic, validation, and service integration. |
+| **Data & Storage** | Relational databases, analytical queries, vector search, and object storage. |
+| **AI Integration** | Language models, document retrieval, embeddings, and tool-connected assistants. |
+| **Automation & Tooling** | Python scripts, data processing, and development utilities. |
+| **Testing & Delivery** | Automated tests, containerized applications, and reproducible environments. |
+
+## 🛠️ Technical Toolkit
+
+### Languages
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" alt="Python" title="Python">
@@ -43,9 +51,9 @@ Gosto de trabalhar nas várias partes de uma aplicação: construir a interface,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42" height="42" alt="C" title="C">
 </p>
 
-Python · TypeScript · JavaScript · Java · C · SQL
+**Python · TypeScript · JavaScript · Java · C · SQL**
 
-#### Frontend
+### Frontend & Visualization
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" height="42" alt="React" title="React">
@@ -57,22 +65,46 @@ Python · TypeScript · JavaScript · Java · C · SQL
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="42" height="42" alt="Bootstrap" title="Bootstrap">
 </p>
 
-React · Tailwind CSS · HTML · CSS · Bootstrap · Vite
+**React · HTML · CSS · Tailwind CSS · Bootstrap · Vite**
 
-#### Backend e dados
+TanStack Query · React Router · Recharts · Leaflet
+
+### Backend & APIs
 
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square" alt="SQLAlchemy">
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square" alt="Pydantic">
+  <img src="https://img.shields.io/badge/REST_APIs-334155?style=flat-square" alt="REST APIs">
+  <img src="https://img.shields.io/badge/WebSockets-334155?style=flat-square" alt="WebSockets">
+</p>
+
+**API development · Authentication · Data validation · Database migrations**
+
+### Databases & Storage
+
+<p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black" alt="ClickHouse">
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square" alt="SQLAlchemy">
   <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square" alt="pgvector">
   <img src="https://img.shields.io/badge/MinIO-C72E49?style=flat-square" alt="MinIO">
 </p>
 
-REST APIs · WebSockets · Pydantic · Alembic · Parquet
+**Relational data · Analytics · Vector search · S3-compatible storage · Parquet**
 
-#### Ferramentas e testes
+### AI & Automation
+
+<p>
+  <img src="https://img.shields.io/badge/LLMs-164E63?style=flat-square" alt="Large Language Models">
+  <img src="https://img.shields.io/badge/RAG-164E63?style=flat-square" alt="Retrieval-Augmented Generation">
+  <img src="https://img.shields.io/badge/MCP-164E63?style=flat-square" alt="Model Context Protocol">
+  <img src="https://img.shields.io/badge/Embeddings-164E63?style=flat-square" alt="Embeddings">
+  <img src="https://img.shields.io/badge/Ollama-164E63?style=flat-square" alt="Ollama">
+</p>
+
+**Document retrieval · Tool integration · Local models · Python automation**
+
+### Tools, Infrastructure & Testing
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" height="42" alt="Docker" title="Docker">
@@ -84,22 +116,18 @@ REST APIs · WebSockets · Pydantic · Alembic · Parquet
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="42" height="42" alt="Google Cloud" title="Google Cloud">
 </p>
 
-Docker Compose · Pytest · Vitest · Playwright
+**Docker · Docker Compose · Git · VS Code · Google Cloud**
 
-### 🚀 O que estou a desenvolver
-
-Uma plataforma que reúne **dashboards interativos, mapas, dados de telemetria e um assistente de IA**.
-
-O trabalho envolve integrar o frontend com serviços de backend, consultar dados históricos, gerir armazenamento e disponibilizar ferramentas de consulta ao assistente através de MCP e RAG.
-
-### 📬 Vamos falar?
-
-Podes contactar-me por email para conversar sobre projetos, desenvolvimento ou oportunidades de colaboração.
-
-**[rrodrigofernandess9@gmail.com](mailto:rrodrigofernandess9@gmail.com)**
+Pytest · Vitest · Playwright
 
 ---
 
+## 📫 Let's Connect
+
+Have an idea, a technical challenge, or an opportunity to collaborate?
+
+**[rrodrigofernandess9@gmail.com](mailto:rrodrigofernandess9@gmail.com)**
+
 <p align="center">
-  <sub>Rodrigo Fernandes · Portugal 🇵🇹</sub>
+  <sub>Rodrigo Fernandes · Software Development · Portugal 🇵🇹</sub>
 </p>
