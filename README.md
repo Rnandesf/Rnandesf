@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:164E63,100:22D3EE&height=230&section=header&text=Rodrigo%20Fernandes&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPMENT%20%7C%20DATA%20%26%20AI&descSize=16&descAlignY=58" width="100%" alt="Rodrigo Fernandes — Full-stack Development, Data and AI">
+  <img src="./profile-banner.svg" width="100%" alt="Rodrigo Fernandes — Full-stack Development, Data and AI">
 </p>
 
 <p align="center">
@@ -73,8 +73,8 @@ I'm particularly interested in how these components fit together: from collectin
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=93C5FD" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/ClickHouse-0F172A?style=for-the-badge&logo=clickhouse&logoColor=FFCC01" alt="ClickHouse">
-  <img src="https://img.shields.io/badge/pgvector-0F172A?style=for-the-badge&logoColor=white" alt="pgvector">
-  <img src="https://img.shields.io/badge/MinIO-0F172A?style=for-the-badge&logoColor=white" alt="MinIO">
+  <img src="https://img.shields.io/badge/pgvector-0F172A?style=for-the-badge" alt="pgvector">
+  <img src="https://img.shields.io/badge/MinIO-0F172A?style=for-the-badge" alt="MinIO">
 </p>
 
 **Working with:** Vector search · Analytical queries · S3-compatible storage · Parquet
@@ -136,7 +136,10 @@ Interested in discussing software development, data platforms, or AI integration
 ---
 
 <p align="center">
-  <sub><strong>Rodrigo Fernandes</strong> &nbsp; / &nbsp; Portugal &nbsp; / &nbsp; <a href="https://github.com/Rnandesf">@Rnandesf</a></sub>
+  <sub>
+    <strong>Rodrigo Fernandes</strong>
+    &nbsp; / &nbsp; Portugal
+    &nbsp; / &nbsp;
+    <a href="https://github.com/Rnandesf">@Rnandesf</a>
+  </sub>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:164E63,100:22D3EE&height=100&section=footer" width="100%" alt="">
